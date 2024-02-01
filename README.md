@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A DevOps Enigneer and computer science undergraduate on Warsaw University of Technology.</h3>
+<h3 align="center">A DevOps Engineer and Data Science graduate student on Warsaw University of Technology.</h3>
 
-- 🔭 I’m currently working on **thesis about using ChatGPT for tabular data analysis (in form of Jupiter Notebook).**
+- 🔭 II just finished my [**thesis about automated tabular data analysis using a multi-agent LLM-powered system**](https://github.com/jswistak/automatic-data-analysis).
 
-- 🧑‍💻 Profesionally I work as a DevOps Engineer in [KMD](https://www.kmd.net) in a project where we develop and maintain the infrastructure and CI/CD for Life & Pension application.
+- 🧑‍💻 Professionally, I work as a DevOps Engineer in [KMD](https://www.kmd.net) in a project where we develop and maintain the infrastructure and CI/CD for Life & Pension application.
 
 ## How to reach me:
 <p align="left">
