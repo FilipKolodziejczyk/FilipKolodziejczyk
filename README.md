@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A DevOps Engineer and Data Science graduate student on Warsaw University of Technology.</h3>
 
-- 🔭 II just finished my [**thesis about automated tabular data analysis using a multi-agent LLM-powered system**](https://github.com/jswistak/automatic-data-analysis).
+- 🔭 I just finished my [**thesis about automated tabular data analysis using a multi-agent LLM-powered system**](https://github.com/jswistak/automatic-data-analysis).
 
 - 🧑‍💻 Professionally, I work as a DevOps Engineer in [KMD](https://www.kmd.net) in a project where we develop and maintain the infrastructure and CI/CD for Life & Pension application.
 
